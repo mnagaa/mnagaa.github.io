@@ -1,0 +1,139 @@
+baseURL: "https://mnagaa.github.io/"
+publishDir: "public"
+title: 🌏 mnagaa
+paginate: 10
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: G-PCYWS7SHJL
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: mnagaa
+  description: "mnagaa, Masatoshi Nagahama, 長濱 直智"
+  keywords: ["Blog", "Portfolio", "PaperMod", "Masatoshi Nagahama", "長濱 直智"]
+  author: mnagaa
+  # author: ["Me", "You"] # multiple authors
+  images: ["https://avatars.githubusercontent.com/u/13862551?v=4"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark # dark, light, auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+
+  assets:
+    disableHLJS: false # to disable highlight.js
+    disableFingerprinting: true
+    favicon: https://avatars.githubusercontent.com/u/13862551?v=4
+    favicon16x16: https://avatars.githubusercontent.com/u/13862551?v=4
+    favicon32x32: https://avatars.githubusercontent.com/u/13862551?v=4
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "🌏 mnagaa"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: mnagaa
+    subtitle: Masatoshi Nagahama, Software Engineer / Research Scientist
+    imageUrl: "https://avatars.githubusercontent.com/u/13862551?v=4"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: mnagaa
+    buttons:
+      - name: Profile
+        url: profile
+      - name: Posts
+        url: posts
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/mnagaa"
+    - name: googlescholar
+      url: "https://scholar.google.co.jp/citations?user=TgMfjWgAAAAJ&hl=ja&oi=ao"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/masa-nagahama/"
+    - name: researchgate
+      url: "https://www.researchgate.net/profile/Masatoshi-Nagahama-2"
+
+  analytics:
+    google:
+      SiteVerificationTag: "G-PCYWS7SHJL"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/mnagaa/mnagaa"
+    Text: "edit" # edit text
+    appendFilePath: false # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: profile
+      name: profile
+      url: /profile/
+      weight: 1
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 5
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai

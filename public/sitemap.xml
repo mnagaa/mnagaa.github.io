@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://mnagaa.github.io/posts/sample/</loc>
+    <lastmod>2022-08-07T16:31:51+09:00</lastmod>
+  </url><url>
+    <loc>https://mnagaa.github.io/</loc>
+    <lastmod>2022-08-07T16:31:51+09:00</lastmod>
+  </url><url>
+    <loc>https://mnagaa.github.io/posts/</loc>
+    <lastmod>2022-08-07T16:31:51+09:00</lastmod>
+  </url><url>
+    <loc>https://mnagaa.github.io/categories/</loc>
+  </url><url>
+    <loc>https://mnagaa.github.io/profile/</loc>
+  </url><url>
+    <loc>https://mnagaa.github.io/tags/</loc>
+  </url>
+</urlset>

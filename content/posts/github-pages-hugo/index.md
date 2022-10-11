@@ -38,3 +38,9 @@ config.ymlを更新する。
 そして、マークダウンファイルを更新する。
 公開したい場合は`draft: false`に変更する。
 
+
+## Google search console
+
+- sitemap.xmlをサイトマップに登録する。
+
+

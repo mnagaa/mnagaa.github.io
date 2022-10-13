@@ -1,4 +1,4 @@
-baseURL: "https://mnagaa.github.io/"
+baseURL: "https://mnagaa.github.io"
 publishDir: "public"
 title: 🌏 mnagaa
 paginate: 10
@@ -61,7 +61,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: mnagaa
-    subtitle: Masatoshi Nagahama, Software Engineer / Research Scientist
+    subtitle: Masatoshi Nagahama (長濱 直智), Software Engineer / Research Scientist
     imageUrl: "https://avatars.githubusercontent.com/u/13862551?v=4"
     imageWidth: 120
     imageHeight: 120
@@ -101,7 +101,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/mnagaa/mnagaa"
+    URL: "https://github.com/mnagaa/mnagaa.github.io"
     Text: "edit" # edit text
     appendFilePath: false # to append file path to Edit link
 

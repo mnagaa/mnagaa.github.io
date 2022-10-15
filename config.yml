@@ -103,7 +103,7 @@ params:
   editPost:
     URL: "https://github.com/mnagaa/mnagaa.github.io"
     Text: "edit" # edit text
-    appendFilePath: false # to append file path to Edit link
+    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html

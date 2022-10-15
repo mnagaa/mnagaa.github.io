@@ -101,7 +101,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/mnagaa/mnagaa.github.io/content"
+    URL: "https://github.com/mnagaa/mnagaa.github.io/tree/main/content/"
     Text: "edit" # edit text
     appendFilePath: true # to append file path to Edit link
 

@@ -17,7 +17,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: mnagaa
+  title: Masatoshi Nagahama
   description: "mnagaa, Masatoshi Nagahama, 長濱 直智"
   keywords: ["Blog", "Portfolio", "PaperMod", "Masatoshi Nagahama", "長濱 直智"]
   author: mnagaa
@@ -61,7 +61,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Masatoshi Nagahama / 長濱 直智
-    subtitle: Software Engineer / Research Scientist
+    subtitle: Masatoshi Nagahama / 長濱 直智, Software Engineer / Research Scientist
     imageUrl: "https://avatars.githubusercontent.com/u/13862551?v=4"
     imageWidth: 120
     imageHeight: 120

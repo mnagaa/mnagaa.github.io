@@ -58,10 +58,11 @@ Masatoshi Nagahama (長濱 直智), Data / Software Engineer at CyberAgent, Inc.
 
 ### Programming Languages
 - Python
-  - Libraries: FastAPI, Flask, gensim, Pytorch, Scrapy, Spider etc.
-  - Env: Poetry etc.
+  - FastAPI, Flask, gensim, Pytorch, Scrapy, Spider etc.
+  - Poetry etc.
 - Go
 - JavaScript/TypeScript (with React, Vue)
+  - MUI, Vuetiry, Chakra UI, Next, Nuxt
 
 - Operating Systems
   - Mac

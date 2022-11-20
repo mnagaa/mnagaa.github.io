@@ -83,5 +83,16 @@ Masatoshi Nagahama (長濱 直智), Data / Software Engineer at CyberAgent, Inc.
   - RabbitMQ
   - zsh, bash
 
-## Others
+## Contributing to
+- [terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake)
+
+## Posts
 - Blog posts: https://zenn.dev/mnagaa
+  - [データパイプラインツールMageを紹介する(Snowflakeとの連携のDemoまで)](https://zenn.dev/mnagaa/articles/5c8f389f68b9ef)
+  - [Accountadmin以外のロールでもコスト管理をしよう](https://zenn.dev/mnagaa/articles/2223fa37660447)
+  - [Hatch is a modern, extensible Python project manager](https://zenn.dev/mnagaa/articles/3a02ebc0431f36)
+  - [SnowflakeのReadOnly, ReadWriteをどう作るのか](https://zenn.dev/mnagaa/articles/dcab22c57d70a2)
+  - [Snowflakeのロール・権限に関するルールとプラクティス](https://zenn.dev/mnagaa/articles/bfd40e819cbed3)
+  - [Snowflakeで設定した方が良いことのチェックリスト](https://zenn.dev/mnagaa/articles/226a3d94d3f71e)
+  - [Snowflakeで間違えて実行したクエリの前の状態に戻す](https://zenn.dev/mnagaa/articles/2b1f3c5e07befa)
+

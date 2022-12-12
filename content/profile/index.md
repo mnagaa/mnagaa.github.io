@@ -86,6 +86,9 @@ Masatoshi Nagahama (長濱 直智), Data / Software Engineer at CyberAgent, Inc.
 ## Contributing to
 - [terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake)
 
+## Books
+- [SnowflakeとTerraformで作るデータ基盤入門](https://zenn.dev/mnagaa/books/3d668d2dfc657e)
+
 ## Posts
 - Blog posts: https://zenn.dev/mnagaa
   - [データパイプラインツールMageを紹介する(Snowflakeとの連携のDemoまで)](https://zenn.dev/mnagaa/articles/5c8f389f68b9ef)

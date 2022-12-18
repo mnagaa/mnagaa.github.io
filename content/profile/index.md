@@ -7,9 +7,9 @@ summary: profile
 
 ## Short
 
-Masatoshi Nagahama (長濱 直智), Data / Software Engineer at CyberAgent, Inc.
+Masatoshi Nagahama (長濱 直智), Data/Software Engineer at CyberAgent, Inc.
 
-- Software Engineer (Data Engineer)
+- Data/Software Engineer
 - Research Scientist
 
 数理最適化、機械学習（深層学習）、信号処理分野で修士号を取得。
@@ -56,7 +56,6 @@ Masatoshi Nagahama (長濱 直智), Data / Software Engineer at CyberAgent, Inc.
 
 ## Engineering Skills
 
-### Programming Languages
 - Python
   - FastAPI, Flask, gensim, Pytorch, Scrapy, Spider etc.
   - Poetry etc.
@@ -78,7 +77,7 @@ Masatoshi Nagahama (長濱 直智), Data / Software Engineer at CyberAgent, Inc.
 
 - Others
   - Docker
-  - Terraform
+  - Terraform (AWS, Snowflake)
   - GitHub, GitHub Actions
   - RabbitMQ
   - zsh, bash
@@ -87,12 +86,13 @@ Masatoshi Nagahama (長濱 直智), Data / Software Engineer at CyberAgent, Inc.
 - [terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake)
 
 ## Books
-![your image](https://user-images.githubusercontent.com/13862551/207810606-737a3eaa-c9d1-45b4-8566-34a59b875472.png)
+![SnowflakeとTerraformで作るデータ基盤入門](https://user-images.githubusercontent.com/13862551/207810606-737a3eaa-c9d1-45b4-8566-34a59b875472.png)
 
 - [SnowflakeとTerraformで作るデータ基盤入門](https://zenn.dev/mnagaa/books/3d668d2dfc657e)
 
 ## Posts
 - Blog posts: https://zenn.dev/mnagaa
+  - [「SnowflakeとTerraformで作るデータ基盤入門」を執筆しました](https://zenn.dev/mnagaa/articles/e6600cec6f92c6)  
   - [データパイプラインツールMageを紹介する(Snowflakeとの連携のDemoまで)](https://zenn.dev/mnagaa/articles/5c8f389f68b9ef)
   - [Accountadmin以外のロールでもコスト管理をしよう](https://zenn.dev/mnagaa/articles/2223fa37660447)
   - [Hatch is a modern, extensible Python project manager](https://zenn.dev/mnagaa/articles/3a02ebc0431f36)

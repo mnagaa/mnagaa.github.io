@@ -48,8 +48,8 @@ Masatoshi Nagahama (長濱 直智), Data/Software Engineer at CyberAgent, Inc.
 
 ## Work Experience
 
-1. **2022.04- CyberAgent, Inc., Software Engineer.**
-1. 2021.09- Megagon Labs., Software Engineer (contract).
+1. **2022.04-Current CyberAgent, Inc., Software Engineer.**
+1. 2021.09-Current Megagon Labs., Software Engineer (contract).
 1. 2020.10-2022.03 SUPWAT, Inc., Software Engineer / Data Scientist (part-time).
 1. 2020.08-2021.04 Forcia, Inc., Data Scientist (part-time): dynamic pricing algorithm and systems.
 1. 2019.10-2020.07 \****, Data Scientist (part-time): recommender system with NLP.　
@@ -61,7 +61,7 @@ Masatoshi Nagahama (長濱 直智), Data/Software Engineer at CyberAgent, Inc.
   - Poetry etc.
 - Go
 - JavaScript/TypeScript (with React, Vue)
-  - MUI, Vuetiry, Chakra UI, Next, Nuxt
+  - MUI, Vuetify, Chakra UI, Next, Nuxt
 
 - Operating Systems
   - Mac
@@ -82,7 +82,7 @@ Masatoshi Nagahama (長濱 直智), Data/Software Engineer at CyberAgent, Inc.
   - RabbitMQ
   - zsh, bash
 
-## Contributing to
+## Open Source Software contribution
 - [terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake)
 
 ## Books

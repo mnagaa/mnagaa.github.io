@@ -82,7 +82,7 @@ Masatoshi Nagahama (長濱 直智), Data/Software Engineer at CyberAgent, Inc.
   - RabbitMQ
   - zsh, bash
 
-## Open Source Software contribution
+## Open Source Software Contribution
 - [terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake)
 
 ## Books

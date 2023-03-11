@@ -74,6 +74,7 @@ Masatoshi Nagahama (長濱 直智), Data/Software Engineer at CyberAgent, Inc.
 
 - Cloud Infrastructure
   - AWS
+  - Snowflake
 
 - Others
   - Docker
@@ -82,7 +83,7 @@ Masatoshi Nagahama (長濱 直智), Data/Software Engineer at CyberAgent, Inc.
   - RabbitMQ
   - zsh, bash
 
-## Open Source Software Contribution
+## OSS Contribution
 - [terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake)
 
 ## Books

@@ -56,6 +56,12 @@ Masatoshi Nagahama (長濱 直智), Data/Software Engineer at CyberAgent, Inc.
 
 ## Engineering Skills
 
+- Performance Tuning
+  - Go
+  - AWS
+  - MySQL
+  - Cache (in-memory, cache system)
+
 - Python
   - FastAPI, Flask, gensim, Pytorch, Scrapy, Spider etc.
   - Poetry etc.
@@ -90,6 +96,12 @@ Masatoshi Nagahama (長濱 直智), Data/Software Engineer at CyberAgent, Inc.
 ![SnowflakeとTerraformで作るデータ基盤入門](https://user-images.githubusercontent.com/13862551/207810606-737a3eaa-c9d1-45b4-8566-34a59b875472.png)
 
 - [SnowflakeとTerraformで作るデータ基盤入門](https://zenn.dev/mnagaa/books/3d668d2dfc657e)
+
+![Building Modern Data Platforms: A Guide to Snowflake and Terraform](https://github.com/mnagaa/mnagaa.github.io/assets/13862551/f41ad4da-e01d-4cd4-b3e0-34979fe5c31a)
+
+- [Building Modern Data Platforms: A Guide to Snowflake and Terraform](https://zenn.dev/mnagaa/books/bf24d3292462c8)
+
+
 
 ## Posts
 - Blog posts: https://zenn.dev/mnagaa

@@ -48,11 +48,13 @@ Masatoshi Nagahama (長濱 直智), Data/Software Engineer at CyberAgent, Inc.
 
 ## Work Experience
 
-1. **2022.04-Current CyberAgent, Inc., Software Engineer.**
-1. 2021.09-Current Megagon Labs., Software Engineer (contract).
-1. 2020.10-2022.03 SUPWAT, Inc., Software Engineer / Data Scientist (part-time).
-1. 2020.08-2021.04 Forcia, Inc., Data Scientist (part-time): dynamic pricing algorithm and systems.
-1. 2019.10-2020.07 \****, Data Scientist (part-time): recommender system with NLP.　
+### **2022.04-Current CyberAgent, Inc., Software Engineer.**
+- I am deeply involved in the development of DSPs (Demand Side Platforms), comprehensive tools specifically crafted to streamline the process of advertisement delivery and precise audience targeting. This ensures that our clients achieve the highest possible advertising impact. My work primarily revolves around the construction of data infrastructures leveraging Snowflake, server implementations utilizing the Go language, and building robust infrastructures powered by AWS. To ensure rapid server response and efficiency, I utilize advanced techniques like in-memory caching and tools like Memcached. Furthermore, I always incorporate the concurrent features of Go language into my implementations, ensuring that our servers not only run fast, but also efficiently.
+
+### 2021.09-Current Megagon Labs., Software Engineer (contract).
+### 2020.10-2022.03 SUPWAT, Inc., Software Engineer / Data Scientist (part-time).
+### 2020.08-2021.04 Forcia, Inc., Data Scientist (part-time): dynamic pricing algorithm and systems.
+### 2019.10-2020.07 \****, Data Scientist (part-time): recommender system with NLP.　
 
 ## Engineering Skills
 

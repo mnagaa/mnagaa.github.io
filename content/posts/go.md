@@ -61,7 +61,7 @@ Goにおける`int`型のゼロ値は0です。このため、`Color`型のゼ�
 type Color int
 
 const (
-		UnknownColor = iota  // ゼロ値をUnknownとして定義
+    UnknownColor = iota  // ゼロ値をUnknownとして定義
     Red
     Blue
     Yellow

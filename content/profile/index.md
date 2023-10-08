@@ -7,17 +7,13 @@ summary: profile
 
 ## Short
 
-Masatoshi Nagahama (長濱 直智), Data/Software Engineer at CyberAgent, Inc.
+Masatoshi Nagahama (長濱 直智), Software/Data Engineer at CyberAgent, Inc.
 
-- Data/Software Engineer
+- Software Engineer
+- Data Engineer
 - Research Scientist
 
 数理最適化、機械学習（深層学習）、信号処理分野で修士号を取得。
-
-- [Google Scholar](https://scholar.google.co.jp/citations?user=TgMfjWgAAAAJ&hl=ja&oi=ao)
-- [IEEE Profile](https://ieeexplore.ieee.org/author/37088932429)
-- [ORCID](https://orcid.org/0000-0002-4646-3962)
-- [Research Gate](https://www.researchgate.net/profile/Masatoshi-Nagahama-2)
 
 ## Research Interests
 
@@ -25,6 +21,15 @@ Masatoshi Nagahama (長濱 直智), Data/Software Engineer at CyberAgent, Inc.
 - Mathematical Optimization: convex optimization, optimization algorithm
 - Image Processing: image coding, image compression
 - Machine Learning (Deep Learning)
+
+## SNS / Link
+
+- [Google Scholar](https://scholar.google.co.jp/citations?user=TgMfjWgAAAAJ&hl=ja&oi=ao)
+- [IEEE Profile](https://ieeexplore.ieee.org/author/37088932429)
+- [ORCID](https://orcid.org/0000-0002-4646-3962)
+- [Research Gate](https://www.researchgate.net/profile/Masatoshi-Nagahama-2)
+- [linkedin](https://www.linkedin.com/in/masa-nagahama/)
+- [Zenn](https://zenn.dev/mnagaa)
 
 ## Publications
 
@@ -37,7 +42,7 @@ Masatoshi Nagahama (長濱 直智), Data/Software Engineer at CyberAgent, Inc.
 
 ### Conference Paper
 
-1. **M. Nagahama** and Y. Tanaka, "Multimodal graph signal denoising via twofold graph smoothness regularization with deep algorithm unrolling," IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2022, Singapore, May 2022. 
+1. **M. Nagahama** and Y. Tanaka, "Multimodal graph signal denoising via twofold graph smoothness regularization with deep algorithm unrolling," IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2022, Singapore, May 2022.
 [[IEEE Xplore](https://ieeexplore.ieee.org/document/9747784)]
 1. **M. Nagahama**, K. Yamada, Y. Tanaka, S. H. Chan, and Y. C. Eldar, "Graph signal denoising using nested-structured deep algorithm unrolling," IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2021, Virtual Conference, Jun. 2021.
 [[IEEE Xplore](https://ieeexplore.ieee.org/document/9414093)]
@@ -111,7 +116,7 @@ Additionally, I pride myself on my expertise in optimizing and speeding up datab
 
 ## Posts
 - Blog posts: https://zenn.dev/mnagaa
-  - [「SnowflakeとTerraformで作るデータ基盤入門」を執筆しました](https://zenn.dev/mnagaa/articles/e6600cec6f92c6)  
+  - [「SnowflakeとTerraformで作るデータ基盤入門」を執筆しました](https://zenn.dev/mnagaa/articles/e6600cec6f92c6)
   - [データパイプラインツールMageを紹介する(Snowflakeとの連携のDemoまで)](https://zenn.dev/mnagaa/articles/5c8f389f68b9ef)
   - [Accountadmin以外のロールでもコスト管理をしよう](https://zenn.dev/mnagaa/articles/2223fa37660447)
   - [Hatch is a modern, extensible Python project manager](https://zenn.dev/mnagaa/articles/3a02ebc0431f36)

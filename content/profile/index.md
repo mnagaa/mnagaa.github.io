@@ -5,7 +5,7 @@ url: "/profile/"
 summary: profile
 ---
 
-## Short
+## About Me
 
 Masatoshi Nagahama (長濱 直智), Software/Data Engineer at CyberAgent, Inc.
 
@@ -17,9 +17,9 @@ Masatoshi Nagahama (長濱 直智), Software/Data Engineer at CyberAgent, Inc.
 
 ## Research Interests
 
-- Graph Signal Processing: signal recovery, denoising, restoration
+- Graph Signal Processing: Signal recovery, denoising, and restoration
 - Mathematical Optimization: convex optimization, optimization algorithm
-- Image Processing: image coding, image compression
+- Image Processing: Image coding and image compression
 - Machine Learning (Deep Learning)
 
 ## SNS / Link
@@ -28,7 +28,7 @@ Masatoshi Nagahama (長濱 直智), Software/Data Engineer at CyberAgent, Inc.
 - [IEEE Profile](https://ieeexplore.ieee.org/author/37088932429)
 - [ORCID](https://orcid.org/0000-0002-4646-3962)
 - [Research Gate](https://www.researchgate.net/profile/Masatoshi-Nagahama-2)
-- [linkedin](https://www.linkedin.com/in/masa-nagahama/)
+- [LinkedIn](https://www.linkedin.com/in/masa-nagahama/)
 - [Zenn](https://zenn.dev/mnagaa)
 
 ## Publications
@@ -53,17 +53,22 @@ Masatoshi Nagahama (長濱 直智), Software/Data Engineer at CyberAgent, Inc.
 
 ## Work Experience
 
-### **2022.04-Current CyberAgent, Inc., Software Engineer.**
+### 2022.04 - Current: CyberAgent, Inc., Software Engineer.
 
 I am deeply involved in the development of DSPs (Demand Side Platforms), comprehensive tools meticulously designed to streamline the process of advertisement delivery and ensure precise audience targeting, enabling our clients to achieve peak advertising performance. My work encompasses the construction of data infrastructures leveraging Snowflake, server implementations using the Go language, and the development of robust infrastructures powered by AWS.
 
 To guarantee rapid server response and efficiency, I employ advanced techniques such as in-memory caching and make use of tools like Memcached. Furthermore, drawing on the inherent concurrency features of Go, I ensure our servers are not only fast but also optimized for peak performance.
 
 Additionally, I pride myself on my expertise in optimizing and speeding up database systems, particularly with MySQL and DynamoDB. With a holistic approach to system development, I ensure that every component, from data storage to server execution, is honed for excellence.
-### 2021.09-Current Megagon Labs., Software Engineer (contract).
-### 2020.10-2022.03 SUPWAT, Inc., Software Engineer / Data Scientist (part-time).
-### 2020.08-2021.04 Forcia, Inc., Data Scientist (part-time): dynamic pricing algorithm and systems.
-### 2019.10-2020.07 \****, Data Scientist (part-time): recommender system with NLP.　
+
+### 2021.09 - Current: Megagon Labs., Software Engineer (contract).
+### 2020.10 - 2022.03: SUPWAT, Inc., Software Engineer / Data Scientist (part-time).
+### 2020.08 - 2021.04: Forcia, Inc., Data Scientist (part-time): dynamic pricing algorithm and systems.
+### 2019.10 - 2020.07: \****, Data Scientist (part-time).
+
+自然言語処理を用いた推薦システムの構築に従事。
+
+I was deeply involved in tasks pivotal to natural language processing (NLP). My responsibilities included web scraping for data collection tailored for language learning, utilizing MeCab for morphological analysis, and employing tf-idf for word ranking. These tasks were all instrumental in building a recommendation system that leveraged the power of NLP. My role not only allowed me to deepen my expertise in NLP but also to understand the practical application of these techniques in the construction of recommendation engines.
 
 ## Engineering Skills
 
@@ -77,8 +82,7 @@ Additionally, I pride myself on my expertise in optimizing and speeding up datab
   - FastAPI, Flask, gensim, Pytorch, Scrapy, Spider etc.
   - Poetry etc.
 - Go
-- JavaScript/TypeScript (with React, Vue)
-  - MUI, Vuetify, Chakra UI, Next, Nuxt
+- JavaScript/TypeScript: React, Vue, MUI, Vuetify, Chakra UI, Next, Nuxt
 
 - Operating Systems
   - Mac
@@ -101,9 +105,11 @@ Additionally, I pride myself on my expertise in optimizing and speeding up datab
   - zsh, bash
 
 ## OSS Contribution
+
 - [terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake)
 
 ## Books
+
 ![SnowflakeとTerraformで作るデータ基盤入門](https://user-images.githubusercontent.com/13862551/207810606-737a3eaa-c9d1-45b4-8566-34a59b875472.png)
 
 - [SnowflakeとTerraformで作るデータ基盤入門](https://zenn.dev/mnagaa/books/3d668d2dfc657e)
@@ -112,16 +118,6 @@ Additionally, I pride myself on my expertise in optimizing and speeding up datab
 
 - [Building Modern Data Platforms: A Guide to Snowflake and Terraform](https://zenn.dev/mnagaa/books/bf24d3292462c8)
 
-
-
 ## Posts
-- Blog posts: https://zenn.dev/mnagaa
-  - [「SnowflakeとTerraformで作るデータ基盤入門」を執筆しました](https://zenn.dev/mnagaa/articles/e6600cec6f92c6)
-  - [データパイプラインツールMageを紹介する(Snowflakeとの連携のDemoまで)](https://zenn.dev/mnagaa/articles/5c8f389f68b9ef)
-  - [Accountadmin以外のロールでもコスト管理をしよう](https://zenn.dev/mnagaa/articles/2223fa37660447)
-  - [Hatch is a modern, extensible Python project manager](https://zenn.dev/mnagaa/articles/3a02ebc0431f36)
-  - [SnowflakeのReadOnly, ReadWriteをどう作るのか](https://zenn.dev/mnagaa/articles/dcab22c57d70a2)
-  - [Snowflakeのロール・権限に関するルールとプラクティス](https://zenn.dev/mnagaa/articles/bfd40e819cbed3)
-  - [Snowflakeで設定した方が良いことのチェックリスト](https://zenn.dev/mnagaa/articles/226a3d94d3f71e)
-  - [Snowflakeで間違えて実行したクエリの前の状態に戻す](https://zenn.dev/mnagaa/articles/2b1f3c5e07befa)
+- Blog posts can be found [here](https://zenn.dev/mnagaa).
 

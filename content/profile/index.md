@@ -7,10 +7,11 @@ summary: profile
 
 ## About Me
 
-Masatoshi Nagahama (長濱 直智), Software/Data Engineer at CyberAgent, Inc.
+Masatoshi Nagahama (長濱 直智), Software/Data Engineer & Cloud Architect at CyberAgent, Inc.
 
 - Software Engineer
 - Data Engineer
+- Cloud Architect
 - Research Scientist
 
 数理最適化、機械学習（深層学習）、信号処理分野で修士号を取得。
@@ -77,11 +78,12 @@ I was deeply involved in tasks pivotal to natural language processing (NLP). My 
   - AWS
   - MySQL
   - Cache (in-memory, cache system)
+  - SQL
 
+- **Go** (Most used programming language)
 - Python
   - FastAPI, Flask, gensim, Pytorch, Scrapy, Spider etc.
   - Poetry etc.
-- Go
 - JavaScript/TypeScript: React, Vue, MUI, Vuetify, Chakra UI, Next, Nuxt
 
 - Operating Systems

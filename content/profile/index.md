@@ -56,6 +56,8 @@ Masatoshi Nagahama (長濱 直智), Software/Data Engineer & Cloud Architect at 
 
 ### 2022.04 - Current: CyberAgent, Inc., Software Engineer.
 
+DSPの開発に従事。サーバーのパフォーマンスチューニング、データ基盤構築、クラウド最適化などを行う。新卒向けにデータエンジニアリング、SQLの講義を担当した。
+
 I am deeply involved in the development of DSPs (Demand Side Platforms), comprehensive tools meticulously designed to streamline the process of advertisement delivery and ensure precise audience targeting, enabling our clients to achieve peak advertising performance. My work encompasses the construction of data infrastructures leveraging Snowflake, server implementations using the Go language, and the development of robust infrastructures powered by AWS.
 
 To guarantee rapid server response and efficiency, I employ advanced techniques such as in-memory caching and make use of tools like Memcached. Furthermore, drawing on the inherent concurrency features of Go, I ensure our servers are not only fast but also optimized for peak performance.

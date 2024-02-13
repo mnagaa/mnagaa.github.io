@@ -108,6 +108,11 @@ I was deeply involved in tasks pivotal to natural language processing (NLP). My 
   - RabbitMQ
   - zsh, bash
 
+## Certifications
+- CG Engineer (2018)
+- TOEIC 835 (2018)
+- [AWS](https://www.credly.com/users/masa-nagahama/badges)
+
 ## OSS Contribution
 
 - [terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake)

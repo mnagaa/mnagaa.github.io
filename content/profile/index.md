@@ -109,7 +109,7 @@ I was deeply involved in tasks pivotal to natural language processing (NLP). My 
   - zsh, bash
 
 ## Certifications
-- CG Engineer (2018)
+- CG Engineer Expert (2018)
 - TOEIC 835 (2018)
 - [AWS](https://www.credly.com/users/masa-nagahama/badges)
 

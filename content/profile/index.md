@@ -77,7 +77,7 @@ I was deeply involved in tasks pivotal to natural language processing (NLP). My 
 
 - Performance Tuning
   - Go
-  - AWS
+  - [AWS: 4 certified](https://www.credly.com/users/masa-nagahama/badges)
   - MySQL
   - Cache (in-memory, cache system)
   - SQL
@@ -100,6 +100,7 @@ I was deeply involved in tasks pivotal to natural language processing (NLP). My 
 - Cloud Infrastructure
   - [AWS: 4 certified](https://www.credly.com/users/masa-nagahama/badges)
   - Snowflake
+  - Datadog
 
 - Others
   - Docker
@@ -111,7 +112,7 @@ I was deeply involved in tasks pivotal to natural language processing (NLP). My 
 ## Certifications
 - CG Engineer Expert (2018)
 - TOEIC 835 (2018)
-- [AWS](https://www.credly.com/users/masa-nagahama/badges)
+- [AWS: 4 certified](https://www.credly.com/users/masa-nagahama/badges)
 
 ## OSS Contribution
 

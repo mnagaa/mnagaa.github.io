@@ -7,10 +7,11 @@ summary: profile
 
 ## About Me
 
-Masatoshi Nagahama (長濱 直智), Software/Data Engineer at CyberAgent, Inc.
+Masatoshi Nagahama (長濱 直智), Tech Lead of Software/Data Engineer & Cloud Architect at CyberAgent, Inc.
 
 - Software Engineer
 - Data Engineer
+- Cloud Architect
 - Research Scientist
 
 数理最適化、機械学習（深層学習）、信号処理分野で修士号を取得。
@@ -55,14 +56,16 @@ Masatoshi Nagahama (長濱 直智), Software/Data Engineer at CyberAgent, Inc.
 
 ### 2022.04 - Current: CyberAgent, Inc., Software Engineer.
 
+DSPの開発に従事。サーバーのパフォーマンスチューニング、データ基盤構築、クラウド最適化などを行う。クラウドサービス、サーバレスアーキテクチャ、クラウドのコスト最適化、キャッシュシステムなどに詳しい。新卒向けにデータエンジニアリング、SQLの講義を担当した。
+
 I am deeply involved in the development of DSPs (Demand Side Platforms), comprehensive tools meticulously designed to streamline the process of advertisement delivery and ensure precise audience targeting, enabling our clients to achieve peak advertising performance. My work encompasses the construction of data infrastructures leveraging Snowflake, server implementations using the Go language, and the development of robust infrastructures powered by AWS.
 
 To guarantee rapid server response and efficiency, I employ advanced techniques such as in-memory caching and make use of tools like Memcached. Furthermore, drawing on the inherent concurrency features of Go, I ensure our servers are not only fast but also optimized for peak performance.
 
 Additionally, I pride myself on my expertise in optimizing and speeding up database systems, particularly with MySQL and DynamoDB. With a holistic approach to system development, I ensure that every component, from data storage to server execution, is honed for excellence.
 
-### 2021.09 - Current: Megagon Labs., Software Engineer (contract).
-### 2020.10 - 2022.03: SUPWAT, Inc., Software Engineer / Data Scientist (part-time).
+### 2020.10 - Current: SUPWAT, Inc., Software Engineer / Data Scientist (contract).
+### 2021.09 - 2023.03: Megagon Labs., Software Engineer (contract).
 ### 2020.08 - 2021.04: Forcia, Inc., Data Scientist (part-time): dynamic pricing algorithm and systems.
 ### 2019.10 - 2020.07: \****, Data Scientist (part-time).
 
@@ -74,14 +77,15 @@ I was deeply involved in tasks pivotal to natural language processing (NLP). My 
 
 - Performance Tuning
   - Go
-  - AWS
+  - [AWS: 4 certified](https://www.credly.com/users/masa-nagahama/badges)
   - MySQL
   - Cache (in-memory, cache system)
+  - SQL
 
+- **Go** (Most used programming language)
 - Python
   - FastAPI, Flask, gensim, Pytorch, Scrapy, Spider etc.
   - Poetry etc.
-- Go
 - JavaScript/TypeScript: React, Vue, MUI, Vuetify, Chakra UI, Next, Nuxt
 
 - Operating Systems
@@ -94,8 +98,9 @@ I was deeply involved in tasks pivotal to natural language processing (NLP). My 
   - Snowflake
 
 - Cloud Infrastructure
-  - AWS
+  - [AWS: 4 certified](https://www.credly.com/users/masa-nagahama/badges)
   - Snowflake
+  - Datadog
 
 - Others
   - Docker
@@ -103,6 +108,11 @@ I was deeply involved in tasks pivotal to natural language processing (NLP). My 
   - GitHub, GitHub Actions
   - RabbitMQ
   - zsh, bash
+
+## Certifications
+- CG Engineer Expert (2018)
+- TOEIC 835 (2018)
+- [AWS: 4 certified](https://www.credly.com/users/masa-nagahama/badges)
 
 ## OSS Contribution
 

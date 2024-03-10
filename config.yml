@@ -61,7 +61,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Masatoshi Nagahama
-    subtitle: Masatoshi Nagahama (長濱 直智), Software Engineer / Research Scientist
+    subtitle: Masatoshi Nagahama (長濱 直智), Tech Lead of Software Engineer / Research Scientist / Cloud Architect
     imageUrl: "https://avatars.githubusercontent.com/u/13862551?v=4"
     imageWidth: 120
     imageHeight: 120

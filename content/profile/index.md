@@ -32,7 +32,7 @@ Masatoshi Nagahama (長濱 直智), Tech Lead of Software/Data Engineer & Cloud 
 - [LinkedIn](https://www.linkedin.com/in/masa-nagahama/)
 - [Zenn](https://zenn.dev/mnagaa)
 
-## Publications
+## 📗Publications
 
 ### Journal Paper
 
@@ -72,6 +72,21 @@ Additionally, I pride myself on my expertise in optimizing and speeding up datab
 自然言語処理を用いた推薦システムの構築に従事。
 
 I was deeply involved in tasks pivotal to natural language processing (NLP). My responsibilities included web scraping for data collection tailored for language learning, utilizing MeCab for morphological analysis, and employing tf-idf for word ranking. These tasks were all instrumental in building a recommendation system that leveraged the power of NLP. My role not only allowed me to deepen my expertise in NLP but also to understand the practical application of these techniques in the construction of recommendation engines.
+
+
+## 🗣️Talks
+
+色々話したことを自分が思い出すために...
+
+- 2023.12 ディビジョン内勉強会 「パフォーマンスチューニング・クラウドコスト最適化」 60min
+  - DSPのパフォーマンスチューニングやクラウドのコストを下げるためのポイントを解説
+  - キャッシュシステムなどの解説
+- 2023.12 チーム内勉強会 「Goを書く技術」 60min
+  - Go言語について、上級レベルの勉強会
+- 2023.5 社内新卒研修 「データベース・SQL研修」 90min
+  - RDBやSQLについての研修
+- 2023.5 社内新卒研修 「データエンジニアリング研修」 90min
+  - データ基盤の作り方などを新卒向けに解説
 
 ## Engineering Skills
 
@@ -118,7 +133,7 @@ I was deeply involved in tasks pivotal to natural language processing (NLP). My 
 
 - [terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake)
 
-## Books
+## 📗Books
 
 ![SnowflakeとTerraformで作るデータ基盤入門](https://user-images.githubusercontent.com/13862551/207810606-737a3eaa-c9d1-45b4-8566-34a59b875472.png)
 

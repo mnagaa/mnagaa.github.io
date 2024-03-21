@@ -64,7 +64,7 @@ To guarantee rapid server response and efficiency, I employ advanced techniques 
 
 Additionally, I pride myself on my expertise in optimizing and speeding up database systems, particularly with MySQL and DynamoDB. With a holistic approach to system development, I ensure that every component, from data storage to server execution, is honed for excellence.
 
-### Current: Algo Artis, Inc., Software Engineer (contract).
+### Current: ALGO ARTIS, Inc., Software Engineer (contract).
 ### 2020.10 - Current: SUPWAT, Inc., Software Engineer / Data Scientist (contract).
 ### 2021.09 - 2023.03: Megagon Labs., Software Engineer (contract).
 ### 2020.08 - 2021.04: Forcia, Inc., Data Scientist (part-time): dynamic pricing algorithm and systems.

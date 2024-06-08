@@ -31,6 +31,7 @@ Masatoshi Nagahama (長濱 直智), Tech Lead of Software/Data Engineer & Cloud 
 - [Research Gate](https://www.researchgate.net/profile/Masatoshi-Nagahama-2)
 - [LinkedIn](https://www.linkedin.com/in/masa-nagahama/)
 - [Zenn](https://zenn.dev/mnagaa)
+- [Blog](https://mnagaa.hatenablog.com/)
 
 ## 📗Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "github actions"
 date: 2022-10-14T00:00:00+09:00
-draft: false
+draft: true
 ---
 
 # Github ActionsでAWSと連携する

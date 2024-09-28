@@ -55,7 +55,9 @@ Masatoshi Nagahama (長濱 直智), Software Engineer at Sansan, Inc. ex-Tech Le
 
 ## Work Experience
 
-### 2022.04 - Current: CyberAgent, Inc., Software Engineer.
+### 2023.09 - Current: Sansan, Inc., Software Engineer.
+
+### 2022.04 - 2024.08: CyberAgent, Inc., Software Engineer.
 
 DSPの開発に従事。サーバーのパフォーマンスチューニング、データ基盤構築、クラウド最適化などを行う。クラウドサービス、サーバレスアーキテクチャ、クラウドのコスト最適化、キャッシュシステムなどに詳しい。新卒向けにデータエンジニアリング、SQLの講義を担当した。
 

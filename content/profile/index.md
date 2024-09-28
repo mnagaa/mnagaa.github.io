@@ -7,7 +7,8 @@ summary: profile
 
 ## About Me
 
-Masatoshi Nagahama (長濱 直智), Tech Lead of Software/Data Engineer & Cloud Architect at CyberAgent, Inc.
+Masatoshi Nagahama (長濱 直智), ex-Tech Lead of Software/Data Engineer & Cloud Architect at CyberAgent, Inc.
+Now, Software Engineer at Sansan, Inc.
 
 - Software Engineer
 - Data Engineer

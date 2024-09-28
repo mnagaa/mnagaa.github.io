@@ -55,7 +55,7 @@ Masatoshi Nagahama (長濱 直智), Software Engineer at Sansan, Inc. ex-Tech Le
 
 ## Work Experience
 
-### 2023.09 - Current: Sansan, Inc., Software Engineer.
+### 2024.09 - Current: Sansan, Inc., Software Engineer.
 
 ### 2022.04 - 2024.08: CyberAgent, Inc., Software Engineer.
 

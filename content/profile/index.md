@@ -104,25 +104,29 @@ I was deeply involved in tasks pivotal to natural language processing (NLP). My 
   - Cache (in-memory, cache system)
   - SQL
 
-- **Go** (Most used programming language)
+- **Go** (Most used programming language) ⭐️⭐️⭐️⭐️⭐️
 - Python
   - FastAPI, Flask, gensim, Pytorch, Scrapy, Spider etc.
   - Poetry etc.
 - JavaScript/TypeScript: React, Vue, MUI, Vuetify, Chakra UI, Next, Nuxt
 
 - Operating Systems
-  - Mac
-  - Linux
+  - Mac ⭐️⭐️⭐️⭐️⭐️
+  - Linux ⭐️⭐️⭐️
 
 - Databases / Data Warehouse
-  - MySQL
-  - PostgreSQL
-  - Snowflake
+  - MySQL ⭐️⭐️⭐️
+  - PostgreSQL ⭐️⭐️⭐️
+  - Snowflake ⭐️⭐️⭐️⭐️⭐️
+  - DynamoDB ⭐️⭐️⭐️⭐
+  - Redis ⭐️⭐️⭐️⭐️⭐️
+  - Memcached ⭐️⭐️⭐️⭐️⭐️
 
 - Cloud Infrastructure
-  - [AWS: 4 certified](https://www.credly.com/users/masa-nagahama/badges)
+  - [AWS: 4 certified](https://www.credly.com/users/masa-nagahama/badges) ⭐️⭐️⭐️⭐️
   - Snowflake
   - Datadog
+  - Google Cloud
 
 - Others
   - Docker

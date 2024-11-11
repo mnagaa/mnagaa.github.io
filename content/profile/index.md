@@ -80,6 +80,8 @@ Additionally, I pride myself on my expertise in optimizing and speeding up datab
 
 I was deeply involved in tasks pivotal to natural language processing (NLP). My responsibilities included web scraping for data collection tailored for language learning, utilizing MeCab for morphological analysis, and employing tf-idf for word ranking. These tasks were all instrumental in building a recommendation system that leveraged the power of NLP. My role not only allowed me to deepen my expertise in NLP but also to understand the practical application of these techniques in the construction of recommendation engines.
 
+## Software
+- https://github.com/mnagaa/stackerrors
 
 ## 🗣️Talks
 
@@ -94,6 +96,22 @@ I was deeply involved in tasks pivotal to natural language processing (NLP). My 
   - RDBやSQLについての研修
 - 2023.5 社内新卒研修 「データエンジニアリング研修」 90min
   - データ基盤の作り方などを新卒向けに解説
+
+## Blog
+
+- [Amazon S3ストレージ最適化方法](https://mnagaa.hatenablog.com/entry/2024/10/23/130338) [2024.10.23]
+- [通信方式 ~vol.3~ (HTTP1.1)](https://mnagaa.hatenablog.com/entry/2024/09/29/231524) [2024.09.29]
+- [通信方式 ~vol.2~ (Socket通信について)](https://mnagaa.hatenablog.com/entry/2024/09/29/191645) [2024.09.29]
+- [通信方式 ~vol.1~ (WebSocket)](https://mnagaa.hatenablog.com/entry/2024/09/25/225416) [2024.09.25]
+- [チームトポロジー、SRE、Platform Engineering](https://mnagaa.hatenablog.com/entry/2024/07/14/101331) [2024.07.14]
+- [zodについて](https://mnagaa.hatenablog.com/entry/2024/07/07/205918) [2024.07.07]
+- [golangci-lintとRenovate](https://mnagaa.hatenablog.com/entry/2024/06/19/151726) [2024.06.19]
+- [データストア #2 ~Redis~](https://mnagaa.hatenablog.com/entry/2024/06/08/130732) [2024.06.08]
+- [データストア #1 ~インメモリキャッシュ序章~](https://mnagaa.hatenablog.com/entry/2024/06/08/123318) [2024.06.08]
+- [データベース #3 ~データ格納~](https://mnagaa.hatenablog.com/entry/2024/06/02/011724) [2024.06.02]
+- [データベース #2 ~行/列志向とか圧縮とかの周辺~](https://mnagaa.hatenablog.com/entry/2024/06/01/035525) [2024.06.01]
+- [データベース #1 ~基礎編~](https://mnagaa.hatenablog.com/entry/2024/05/29/223918) [2024.05.29]
+- [ソフトウェア原理原則](https://mnagaa.hatenablog.com/entry/2024/05/28/064340) [2024.05.28]
 
 ## Engineering Skills
 

@@ -9,12 +9,14 @@ summary: profile
 
 Masatoshi Nagahama (長濱 直智), Software Engineer at Sansan, Inc. ex-Tech Lead of Software/Data Engineer & Cloud Architect at CyberAgent, Inc.
 
+数理最適化、機械学習（深層学習）、信号処理分野で修士号を取得。
+
+### Professional Experience
+
 - Software Engineer
 - Data Engineer
 - Cloud Architect
 - Research Scientist
-
-数理最適化、機械学習（深層学習）、信号処理分野で修士号を取得。
 
 ## Research Interests
 
@@ -72,7 +74,7 @@ Additionally, I pride myself on my expertise in optimizing and speeding up datab
 ### 2021.09 - 2023.03: Megagon Labs., Software Engineer (contract).
 ### 2020.08 - 2021.04: Forcia, Inc., Data Scientist (part-time): dynamic pricing algorithm and systems.
 
-ダイナミックプライシングの予測モデルの開発に従事。
+ダイナミックプライシングの予測モデルの開発に従事。Python (Machine Learning)、TypeScipt, PostgreSQL etc...
 
 ### 2019.10 - 2020.07: \****, Data Scientist (part-time).
 
@@ -122,23 +124,24 @@ I was deeply involved in tasks pivotal to natural language processing (NLP). My 
   - Cache (in-memory, cache system)
   - SQL
 
-- **Go** (Most used programming language) ⭐️⭐️⭐️⭐️⭐️
+- **Go** (Most used programming language)
+  - many!!
 - Python
   - FastAPI, Flask, gensim, Pytorch, Scrapy, Spider etc.
   - Poetry etc.
 - JavaScript/TypeScript: React, Vue, MUI, Vuetify, Chakra UI, Next, Nuxt
 
 - Operating Systems
-  - Mac ⭐️⭐️⭐️⭐️⭐️
-  - Linux ⭐️⭐️⭐️
+  - Mac
+  - Linux
 
 - Databases / Data Warehouse
-  - MySQL ⭐️⭐️⭐️
-  - PostgreSQL ⭐️⭐️⭐️
-  - Snowflake ⭐️⭐️⭐️⭐️⭐️
-  - DynamoDB ⭐️⭐️⭐️⭐
-  - Redis ⭐️⭐️⭐️⭐️⭐️
-  - Memcached ⭐️⭐️⭐️⭐️⭐️
+  - MySQL
+  - PostgreSQL
+  - Snowflake
+  - DynamoDB
+  - Redis
+  - Memcached
 
 - Cloud Infrastructure
   - [AWS: 4 certified](https://www.credly.com/users/masa-nagahama/badges) ⭐️⭐️⭐️⭐️

@@ -177,4 +177,3 @@ I was deeply involved in tasks pivotal to natural language processing (NLP). My 
 
 ## Posts
 - Blog posts can be found [here](https://zenn.dev/mnagaa).
-

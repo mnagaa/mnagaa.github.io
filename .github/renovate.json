@@ -1,7 +1,7 @@
 {
   "extends": [
     "config:base",
-    ":pinGitHubActionDigests"
+    "helpers:pinGitHubActionDigests"
   ],
   "dependencyDashboard": true,
   "rangeStrategy": "auto",

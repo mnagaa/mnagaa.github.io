@@ -10,6 +10,13 @@
     "dependencies",
     "renovate"
   ],
+  "packageRules": [
+    {
+      "matchManagers": ["github-actions"],
+      "matchUpdateTypes": ["major"],
+      "enabled": false
+    }
+  ],
   "regexManagers": [
     {
       "fileMatch": ["^\\.github/workflows/[^/]+\\.yml$"],

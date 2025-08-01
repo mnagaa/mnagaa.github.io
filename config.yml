@@ -1,7 +1,8 @@
 baseURL: "https://mnagaa.github.io"
 publishDir: "public"
 title: 🌏 Masatoshi Nagahama
-paginate: 10
+pagination:
+  pagerSize: 10
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -77,15 +78,11 @@ params:
     Title: "Hi there \U0001F44B"
     Content: Welcome to my blog
 
-  socialIcons:
-    - name: github
-      url: "https://github.com/mnagaa"
-    - name: googlescholar
-      url: "https://scholar.google.co.jp/citations?user=TgMfjWgAAAAJ&hl=ja&oi=ao"
-    - name: linkedin
-      url: "https://www.linkedin.com/in/masa-nagahama/"
-    - name: researchgate
-      url: "https://www.researchgate.net/profile/Masatoshi-Nagahama-2"
+  social:
+    github: "mnagaa"
+    googlescholar: "https://scholar.google.co.jp/citations?user=TgMfjWgAAAAJ&hl=ja&oi=ao"
+    linkedin: "https://www.linkedin.com/in/masa-nagahama/"
+    researchgate: "https://www.researchgate.net/profile/Masatoshi-Nagahama-2"
 
   analytics:
     google:

@@ -18,6 +18,72 @@ Masatoshi Nagahama (長濱 直智), Software Engineer at Sansan, Inc. ex-Tech Le
 - Cloud Architect
 - Research Scientist
 
+## Work Experience
+
+### 2024.09 - Current: Sansan, Inc., Software Engineer.
+
+### 2022.04 - 2024.08: CyberAgent, Inc., Software Engineer.
+
+DSPの開発に従事。サーバーのパフォーマンスチューニング、データ基盤構築、クラウド最適化などを行う。クラウドサービス、サーバレスアーキテクチャ、クラウドのコスト最適化、キャッシュシステムなどに詳しい。新卒向けにデータエンジニアリング、SQLの講義を担当した。
+
+I am deeply involved in the development of DSPs (Demand Side Platforms), comprehensive tools meticulously designed to streamline the process of advertisement delivery and ensure precise audience targeting, enabling our clients to achieve peak advertising performance. My work encompasses the construction of data infrastructures leveraging Snowflake, server implementations using the Go language, and the development of robust infrastructures powered by AWS.
+
+To guarantee rapid server response and efficiency, I employ advanced techniques such as in-memory caching and make use of tools like Memcached. Furthermore, drawing on the inherent concurrency features of Go, I ensure our servers are not only fast but also optimized for peak performance.
+
+Additionally, I pride myself on my expertise in optimizing and speeding up database systems, particularly with MySQL and DynamoDB. With a holistic approach to system development, I ensure that every component, from data storage to server execution, is honed for excellence.
+
+### 2024.02 - 2025.07: ALGO ARTIS, Inc., Software Engineer (contract).
+### 2020.10 - 2024.01: SUPWAT, Inc., Software Engineer / Data Scientist (contract).
+### 2021.09 - 2023.03: Megagon Labs., Software Engineer (contract).
+### 2020.08 - 2021.04: Forcia, Inc., Data Scientist (part-time): dynamic pricing algorithm and systems.
+
+ダイナミックプライシングの予測モデルの開発に従事。Python (Machine Learning)、TypeScipt, PostgreSQL etc...
+
+### 2019.10 - 2020.07: \****, Data Scientist (part-time).
+
+自然言語処理を用いた推薦システムの構築に従事。
+
+I was deeply involved in tasks pivotal to natural language processing (NLP). My responsibilities included web scraping for data collection tailored for language learning, utilizing MeCab for morphological analysis, and employing tf-idf for word ranking. These tasks were all instrumental in building a recommendation system that leveraged the power of NLP. My role not only allowed me to deepen my expertise in NLP but also to understand the practical application of these techniques in the construction of recommendation engines.
+
+## Engineering Skills
+
+### Languages & Frameworks
+
+- **Go** — メインで使用。並行処理、サーバー、CLI など
+- **Python** — FastAPI, Flask, PyTorch, gensim, Scrapy, Poetry など
+- **TypeScript / JavaScript** — React, Next, Vue, Nuxt, Chakra UI, MUI, Vuetify など
+
+### Architecture & Design
+
+- Domain-Driven Design (DDD)
+- Distributed Systems / Distributed Architecture
+
+### Data & Storage
+
+- **RDB / Data Warehouse**: MySQL, PostgreSQL, Snowflake, Cloud Spanner
+- **NoSQL / Cache**: DynamoDB, Redis, Memcached
+
+### Cloud & Infrastructure
+
+- **AWS** — [4 certified](https://www.credly.com/users/masa-nagahama/badges) ⭐️
+- **Google Cloud** — Cloud Spanner, BigQuery, Cloud Run, Cloud Functions など
+- Snowflake, Datadog
+- Terraform (AWS, Snowflake), Docker, GitHub Actions
+
+### Performance & Tuning
+
+- サーバー・DB・SQL のチューニング、インメモリキャッシュ設計
+
+### Tools & Others
+
+- GitHub, RabbitMQ, zsh, bash — Mac / Linux
+
+## Certifications
+
+- [AWS: 4 certified](https://www.credly.com/users/masa-nagahama/badges)
+- CG Engineer Expert (2018)
+- TOEIC 835 (2018)
+
 ## Research Interests
 
 - Graph Signal Processing: Signal recovery, denoising, and restoration
@@ -25,17 +91,7 @@ Masatoshi Nagahama (長濱 直智), Software Engineer at Sansan, Inc. ex-Tech Le
 - Image Processing: Image coding and image compression
 - Machine Learning (Deep Learning)
 
-## SNS / Link
-
-- [Google Scholar](https://scholar.google.co.jp/citations?user=TgMfjWgAAAAJ&hl=ja&oi=ao)
-- [IEEE Profile](https://ieeexplore.ieee.org/author/37088932429)
-- [ORCID](https://orcid.org/0000-0002-4646-3962)
-- [Research Gate](https://www.researchgate.net/profile/Masatoshi-Nagahama-2)
-- [LinkedIn](https://www.linkedin.com/in/masa-nagahama/)
-- [Zenn](https://zenn.dev/mnagaa)
-- [Blog](https://mnagaa.hatenablog.com/)
-
-## 📗Publications
+## 📗 Publications
 
 ### Journal Paper
 
@@ -55,51 +111,30 @@ Masatoshi Nagahama (長濱 直智), Software Engineer at Sansan, Inc. ex-Tech Le
 
 - 日本学生支援機構 大学院第一種奨学金 特に優れた業績による返還免除 (2020.4 - 2022.3)
 
-## Work Experience
+## 📗 Books
 
-### 2024.09 - Current: Sansan, Inc., Software Engineer.
+![SnowflakeとTerraformで作るデータ基盤入門](https://user-images.githubusercontent.com/13862551/207810606-737a3eaa-c9d1-45b4-8566-34a59b875472.png)
 
-### 2022.04 - 2024.08: CyberAgent, Inc., Software Engineer.
+- [SnowflakeとTerraformで作るデータ基盤入門](https://zenn.dev/mnagaa/books/3d668d2dfc657e)
 
-DSPの開発に従事。サーバーのパフォーマンスチューニング、データ基盤構築、クラウド最適化などを行う。クラウドサービス、サーバレスアーキテクチャ、クラウドのコスト最適化、キャッシュシステムなどに詳しい。新卒向けにデータエンジニアリング、SQLの講義を担当した。
+![Building Modern Data Platforms: A Guide to Snowflake and Terraform](https://github.com/mnagaa/mnagaa.github.io/assets/13862551/f41ad4da-e01d-4cd4-b3e0-34979fe5c31a)
 
-I am deeply involved in the development of DSPs (Demand Side Platforms), comprehensive tools meticulously designed to streamline the process of advertisement delivery and ensure precise audience targeting, enabling our clients to achieve peak advertising performance. My work encompasses the construction of data infrastructures leveraging Snowflake, server implementations using the Go language, and the development of robust infrastructures powered by AWS.
+- [Building Modern Data Platforms: A Guide to Snowflake and Terraform](https://zenn.dev/mnagaa/books/bf24d3292462c8)
 
-To guarantee rapid server response and efficiency, I employ advanced techniques such as in-memory caching and make use of tools like Memcached. Furthermore, drawing on the inherent concurrency features of Go, I ensure our servers are not only fast but also optimized for peak performance.
-
-Additionally, I pride myself on my expertise in optimizing and speeding up database systems, particularly with MySQL and DynamoDB. With a holistic approach to system development, I ensure that every component, from data storage to server execution, is honed for excellence.
-
-### Current: ALGO ARTIS, Inc., Software Engineer (contract).
-### 2020.10 - Current: SUPWAT, Inc., Software Engineer / Data Scientist (contract).
-### 2021.09 - 2023.03: Megagon Labs., Software Engineer (contract).
-### 2020.08 - 2021.04: Forcia, Inc., Data Scientist (part-time): dynamic pricing algorithm and systems.
-
-ダイナミックプライシングの予測モデルの開発に従事。Python (Machine Learning)、TypeScipt, PostgreSQL etc...
-
-### 2019.10 - 2020.07: \****, Data Scientist (part-time).
-
-自然言語処理を用いた推薦システムの構築に従事。
-
-I was deeply involved in tasks pivotal to natural language processing (NLP). My responsibilities included web scraping for data collection tailored for language learning, utilizing MeCab for morphological analysis, and employing tf-idf for word ranking. These tasks were all instrumental in building a recommendation system that leveraged the power of NLP. My role not only allowed me to deepen my expertise in NLP but also to understand the practical application of these techniques in the construction of recommendation engines.
-
-## Software
-- https://github.com/mnagaa/stackerrors
-
-## 🗣️Talks
-
-色々話したことを自分が思い出すために...
+## 🗣️ Talks
 
 - 2023.12 ディビジョン内勉強会 「パフォーマンスチューニング・クラウドコスト最適化」 60min
-  - DSPのパフォーマンスチューニングやクラウドのコストを下げるためのポイントを解説
-  - キャッシュシステムなどの解説
-- 2023.12 チーム内勉強会 「Goを書く技術」 60min
-  - Go言語について、上級レベルの勉強会
+  - DSPのパフォーマンスチューニングやクラウドのコストを下げるためのポイントを解説、キャッシュシステムなどの解説
+- 2023.12 チーム内勉強会 「Goを書く技術」 60min — Go言語上級向け
 - 2023.5 社内新卒研修 「データベース・SQL研修」 90min
-  - RDBやSQLについての研修
-- 2023.5 社内新卒研修 「データエンジニアリング研修」 90min
-  - データ基盤の作り方などを新卒向けに解説
+- 2023.5 社内新卒研修 「データエンジニアリング研修」 90min — データ基盤の作り方などを新卒向けに解説
 
-## Blog
+## Blog / Posts
+
+- はてなブログ: [最近の記事](https://mnagaa.hatenablog.com/)（下に一覧）
+- Zenn: [投稿一覧](https://zenn.dev/mnagaa)
+
+**はてなブログ 最近記事:**
 
 - [Amazon S3ストレージ最適化方法](https://mnagaa.hatenablog.com/entry/2024/10/23/130338) [2024.10.23]
 - [通信方式 ~vol.3~ (HTTP1.1)](https://mnagaa.hatenablog.com/entry/2024/09/29/231524) [2024.09.29]
@@ -115,66 +150,17 @@ I was deeply involved in tasks pivotal to natural language processing (NLP). My 
 - [データベース #1 ~基礎編~](https://mnagaa.hatenablog.com/entry/2024/05/29/223918) [2024.05.29]
 - [ソフトウェア原理原則](https://mnagaa.hatenablog.com/entry/2024/05/28/064340) [2024.05.28]
 
-## Engineering Skills
+## OSS / Software
 
-- Performance Tuning
-  - Go
-  - [AWS: 4 certified](https://www.credly.com/users/masa-nagahama/badges)
-  - MySQL
-  - Cache (in-memory, cache system)
-  - SQL
+- [terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake) — コントリビューション
+- [stackerrors](https://github.com/mnagaa/stackerrors)
 
-- **Go** (Most used programming language)
-  - many!!
-- Python
-  - FastAPI, Flask, gensim, Pytorch, Scrapy, Spider etc.
-  - Poetry etc.
-- JavaScript/TypeScript: React, Vue, MUI, Vuetify, Chakra UI, Next, Nuxt
+## SNS / Links
 
-- Operating Systems
-  - Mac
-  - Linux
-
-- Databases / Data Warehouse
-  - MySQL
-  - PostgreSQL
-  - Snowflake
-  - DynamoDB
-  - Redis
-  - Memcached
-
-- Cloud Infrastructure
-  - [AWS: 4 certified](https://www.credly.com/users/masa-nagahama/badges) ⭐️⭐️⭐️⭐️
-  - Snowflake
-  - Datadog
-  - Google Cloud
-
-- Others
-  - Docker
-  - Terraform (AWS, Snowflake)
-  - GitHub, GitHub Actions
-  - RabbitMQ
-  - zsh, bash
-
-## Certifications
-
-- CG Engineer Expert (2018)
-- TOEIC 835 (2018)
-- [AWS: 4 certified](https://www.credly.com/users/masa-nagahama/badges)
-
-## OSS Contribution
-
-- [terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake)
-
-## 📗Books
-
-![SnowflakeとTerraformで作るデータ基盤入門](https://user-images.githubusercontent.com/13862551/207810606-737a3eaa-c9d1-45b4-8566-34a59b875472.png)
-
-- [SnowflakeとTerraformで作るデータ基盤入門](https://zenn.dev/mnagaa/books/3d668d2dfc657e)
-
-![Building Modern Data Platforms: A Guide to Snowflake and Terraform](https://github.com/mnagaa/mnagaa.github.io/assets/13862551/f41ad4da-e01d-4cd4-b3e0-34979fe5c31a)
-
-- [Building Modern Data Platforms: A Guide to Snowflake and Terraform](https://zenn.dev/mnagaa/books/bf24d3292462c8)
-
-## Posts
-- Blog posts can be found [here](https://zenn.dev/mnagaa).
+- [Google Scholar](https://scholar.google.co.jp/citations?user=TgMfjWgAAAAJ&hl=ja&oi=ao)
+- [IEEE Profile](https://ieeexplore.ieee.org/author/37088932429)
+- [ORCID](https://orcid.org/0000-0002-4646-3962)
+- [Research Gate](https://www.researchgate.net/profile/Masatoshi-Nagahama-2)
+- [LinkedIn](https://www.linkedin.com/in/masa-nagahama/)
+- [Zenn](https://zenn.dev/mnagaa)
+- [Blog](https://mnagaa.hatenablog.com/)

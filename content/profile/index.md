@@ -60,8 +60,12 @@ I was deeply involved in tasks pivotal to natural language processing (NLP). My 
 
 ### Data & Storage
 
-- **RDB / Data Warehouse**: MySQL, PostgreSQL, Snowflake, Cloud Spanner
+- **RDB / Data Warehouse**: MySQL, PostgreSQL
 - **NoSQL / Cache**: DynamoDB, Redis, Memcached
+- Cloud Spanner
+- Snowflake
+- dbt: data pipline
+- apatch beam
 
 ### Cloud & Infrastructure
 

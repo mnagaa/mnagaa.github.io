@@ -50,8 +50,8 @@ params:
     favicon: https://avatars.githubusercontent.com/u/13862551?v=4
     favicon16x16: https://avatars.githubusercontent.com/u/13862551?v=4
     favicon32x32: https://avatars.githubusercontent.com/u/13862551?v=4
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    apple_touch_icon: https://avatars.githubusercontent.com/u/13862551?v=4
+    safari_pinned_tab: https://avatars.githubusercontent.com/u/13862551?v=4
 
   label:
     text: "🌏 Masatoshi Nagahama"

@@ -3,32 +3,28 @@
 HUGO        ?= hugo
 BASE_URL    ?= https://mnagaa.github.io
 
-## ヘルプ
-help:
-	@echo "\n主要ターゲット一覧:";
-	@grep -E '^##' Makefile | sed -e 's/^## //';
+.DEFAULT_GOAL := help
+.PHONY: help serve build clean preview update-theme act-build
 
-## ローカルサーバを起動（ドラフトも含む / 高速レンダリング無効）
-serve:
+help: ## このヘルプを表示
+	@printf "\n主要ターゲット一覧:\n\n"
+	@awk 'BEGIN {FS = ":.*##"} /^[a-zA-Z_-]+:.*##/ {printf "  \033[36m%-14s\033[0m %s\n", $$1, $$2}' $(MAKEFILE_LIST)
+	@printf "\n"
+
+serve: ## ローカルサーバを起動（ドラフトも含む / 高速レンダリング無効）
 	$(HUGO) server --buildDrafts --disableFastRender
 
-## 本番相当のファイルを ./public に出力
-build:
+build: ## 本番相当のファイルを ./public に出力
 	$(HUGO) --minify --baseURL $(BASE_URL)
 
-## 生成物を削除
-clean:
+clean: ## 生成物を削除
 	rm -rf public
 
-## build した内容をローカル 1313 ポートで確認
-preview: build
+preview: build ## build した内容をローカル 1313 ポートで確認
 	cd public && python3 -m http.server 1313
 
-## PaperMod テーマを取得（初回） & 最新へ更新
-update-theme:
+update-theme: ## PaperMod テーマを取得（初回） & 最新へ更新
 	git submodule update --init --recursive --remote --merge
 
-## GitHub Actions の build job をローカル Docker で実行（要 act）
-act-build:
+act-build: ## GitHub Actions の build job をローカル Docker で実行（要 act）
 	act -j build
-
